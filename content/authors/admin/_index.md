@@ -10,7 +10,7 @@ role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Nazarbayeb University
+  - name: Nazarbayev University
     url: https://nu.edu.kz/ru
 
 # Short bio (displayed in user profile at end of posts)
